@@ -1,3 +1,5 @@
+[Figures](https://github.com/666greatChina888/666greatChina888#Figures) | [Statistics](https://github.com/666greatChina888/666greatChina888#Statistics) 
+
 ![Visitor's Count](https://profile-counter.glitch.me/666greatChina888/count.svg)
 
 ### Figures
