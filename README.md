@@ -1,6 +1,6 @@
-<h1 align="center">Hi there👋, I'm 666great China888</h1>
+<h1 align="center">Hi there👋, I'm 666greatChina888</h1>
 
-[Figures](https://github.com/666greatChina888/666greatChina888#Figures) | [Statistics](https://github.com/666greatChina888/666greatChina888#Statistics) 
+[Figures](https://github.com/666greatChina888/666greatChina888#Figures) | [Statistics](https://github.com/666greatChina888/666greatChina888#Statistics)
 
 ![Visitor's Count](https://profile-counter.glitch.me/666greatChina888/count.svg)
 
